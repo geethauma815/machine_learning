@@ -1,2 +1,6 @@
 # Ignore all files in Class/images folder
 Class/images/*
+Class/old/*
+Class/preparing/*
+Lab/old/*
+

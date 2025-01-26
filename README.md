@@ -1,20 +1,18 @@
-# Machine Learning
+# RGUKT Basar Department of CSE  
+## Machine Learning  
 
-## Overview
-This repository contains resources for teaching and learning Machine Learning, including materials for both theoretical classes and practical lab sessions.
+### Overview  
+This repository contains resources for teaching and learning Machine Learning, including materials for both theoretical classes and practical lab sessions.  
 
-## Purpose
-The primary goal of this repository is to provide:
-- Lecture notes and presentation slides.
-- Hands-on lab exercises and code implementations.
-- Machine learning algorithms and projects for academic purposes.
+### Resources  
 
-## Contents
-- **Class Materials**: Notes, slides, and supplementary resources.
-- **Lab Exercises**: Python scripts, Jupyter notebooks, and assignments for hands-on practice.
-- **Projects**: Example projects to apply machine learning concepts.
+- **Books**  
+  [Google Drive Folder - Books](https://drive.google.com/drive/folders/14OqtI4AvOiiDCgKS613NfEEN709cAqQ9?usp=sharing)  
 
-## How to Use
-1. Clone this repository:
+- **Datasets**  
+  [Google Drive Folder - Datasets](https://drive.google.com/drive/folders/1ThlyZfjzipkiq5M397YYu7wq0PD1WwgF?usp=sharing)  
+
+### How to Use  
+1. Clone this repository:  
    ```bash
    git clone https://github.com/sujoysarkarcs/machine_learning.git
